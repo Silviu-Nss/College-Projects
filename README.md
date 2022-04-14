@@ -1,5 +1,4 @@
-This program written in assembly can be used to evaluate a mathematical prefix expression in a string.
-
+Assembly program used to evaluate mathematical prefix expressions in strings.
 
 assemblyOptions = -g -f elf32 -o math_expression_evaluator.o math_expression_evaluator.asm
 
